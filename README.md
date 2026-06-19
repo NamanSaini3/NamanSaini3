@@ -8,9 +8,7 @@
 <p align="center">
   <a href="https://naman-saini.netlify.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/naman-saini-022852378/">💼 LinkedIn</a> •
-  [📫 Email](mailto:namansaini0003@gmail.com)
-  
-
+  <a href="mailto:namansaini0003@gmail.com">📫 Email</a>
 </p>
 
 ---
@@ -39,10 +37,9 @@
 
 ### 📌 Featured Projects
 | Project | Description | Tech |
-|---------|-------------|------|
-| [GrowthForge](https://github.com/NamanSaini3/GrowthForge) | 👉 yaha batao GrowthForge kya karta hai | HTML, CSS |
-| [abroad-guide](https://github.com/NamanSaini3/abroad-guide) | 👉 yaha batao abroad-guide kya karta hai | JS |
-| *Coming soon: ML project* | House price prediction | Python, scikit-learn |
+| [GrowthForge](https://github.com/NamanSaini3/GrowthForge) | A landing page for a startup growth tool, built with HTML & CSS | HTML, CSS |
+| [abroad-guide](https://github.com/NamanSaini3/abroad-guide) | A guide website to help students study abroad | JavaScript |
+| *Coming soon: ML project* | House price prediction using regression | Python, scikit-learn |
 
 ---
 
