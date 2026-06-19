@@ -36,7 +36,7 @@
 ---
 
 ### 📌 Featured Projects
-| Project | Description | Tech |
+
 | [GrowthForge](https://github.com/NamanSaini3/GrowthForge) | A landing page for a startup growth tool, built with HTML & CSS | HTML, CSS |
 | [abroad-guide](https://github.com/NamanSaini3/abroad-guide) | A guide website to help students study abroad | JavaScript |
 | *Coming soon: ML project* | House price prediction using regression | Python, scikit-learn |
